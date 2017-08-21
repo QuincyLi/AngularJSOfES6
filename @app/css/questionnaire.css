@@ -1,0 +1,586 @@
+﻿body {
+    color: #333 !important;
+}
+
+.QuestionaireTitle {
+    font-family: helvetica;
+    margin-top: 25px;
+    margin-bottom: 10px;
+    font-size: 34px;
+    color: #333333;
+}
+
+.questionaire-txt {
+    font-family: helvetica;
+    font-weight: bold;
+}
+
+.questionaire-title {
+    margin-top: 25px;
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+
+.contact-title {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.account-information label {
+    font-size: 13px;
+    margin-top: 10px;
+}
+
+.questionaire-confirmation {
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+
+.questionaire-radioBut {
+    float: left;
+    margin: 0 5px;
+    display: inline-block;
+    min-width: 100px;
+}
+
+.questionaire-polNum {
+    font-family: helvetica;
+    font-size: 14px;
+    color: #3889C0;
+    font-weight: bold;
+}
+
+.email-preferred-margin {
+    margin-top: -18px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.questionaire-block {
+    margin-top: 10px;
+}
+
+.row-fluid-margin {
+    margin-top: 10px;
+}
+
+.horizontal {
+    margin-top: 5px;
+}
+
+.email-adddress-margin {
+    margin-top: -10px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.no-padding {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.no-margin {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.email-phone-margin {
+    margin-top: 10px;
+}
+
+.col-md2-margin {
+    margin-top: 10px;
+    margin-left: -15px;
+}
+
+.questionaire-title-text {
+    /*font-weight:bold;
+    margin-left:10px;*/
+    font-size: 18px;
+}
+
+
+/*.questionaire-title-comments{
+  display: block;
+  -webkit-margin-before: 1em;
+  -webkit-margin-after: 1em;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
+  font-size: 15px;
+}*/
+
+.workPhoneExtensionStyle {
+    margin-left: 10px;
+}
+
+.questionaire-vehicle-header h4 {
+    color: #222;
+    background-color: #efefef;
+    padding: 10px;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    font-weight: normal;
+    font-size: 16.25px;
+}
+
+.questionaire-vehicle {
+    font-size: 19px;
+}
+
+.padding-right-zero {
+    padding-right: inherit;
+}
+
+.contact-info-summary {
+    margin-top: 20px;
+    font-size: 14px;
+}
+
+.questionaire-section {
+    border-bottom: 1px solid #dadada;
+    padding-bottom: 10px;
+}
+
+.questionaire-title-section {
+    border-bottom: 1px solid #dadada;
+    padding-bottom: 10px;
+    margin-bottom: 0px;
+}
+
+.margin-left-minus15 {
+    margin-left: -15px;
+    margin-top: 20px;
+}
+
+label span {
+    font-size: 13px;
+    margin-bottom: 10px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+    font-weight: bold;
+}
+
+.text-align-right {
+    text-align: right;
+}
+
+.questionaire-vehicle-body {
+    margin: 10px;
+}
+
+.odometer-reading-title {
+    margin-top: 30px;
+}
+
+.odometer-reading-content {
+    margin-top: 10px;
+}
+
+a:link {
+    text-decoration: underline;
+}
+
+.questionaire-odometer-comments {
+    margin-bottom: 25px;
+    font-size: 15px;
+}
+
+.questionaire-current-odometer {
+    margin-top: 10px;
+}
+
+.driver-info {
+    margin-top: 10px;
+}
+
+.driver-summary {
+    margin-bottom: 0px;
+}
+
+.driver-radio {
+    margin-top: 0px !important;
+    margin-right: 5px !important;
+}
+
+.questionaire-odometer-margin {
+    margin-top: 10px;
+}
+
+.questionaire-rideshare-option {
+    margin-top: 10px;
+}
+
+.primary-driver-title {
+    margin-top: 10px;
+    margin-right: 5px;
+}
+
+.rideshare {
+    background-color: #f7f7f7;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.summary-background {
+    background-color: #FFFFFF;
+}
+
+.iePhoneExtLabel {
+    display: none;
+}
+
+.mediahero {
+    background-color: #fff;
+    margin-top: 20px;
+}
+
+.contactInfo-mediahero {
+    background-color: #fff;
+    font-size: 12px;
+}
+
+.checkbox {
+    min-height: 18px;
+    padding-left: 0px;
+}
+
+.requiredIndicator {
+    color: #036;
+    font-weight: normal;
+    margin-left: 2px;
+}
+
+.no-permitted {
+    margin-top: -40px;
+}
+
+.btn-well {
+    padding: 5px 0 0;
+}
+
+.questionaire-disclaimer {
+    color: #999;
+    font-size: 12px;
+}
+
+.questionaire-option {
+    margin-top: 10px;
+    width: 100%;
+    min-height: 28px;
+}
+
+.questionaire-col-md-6 {
+    margin-left: -15px;
+    margin-right: -15px;
+    margin-top: 20px;
+}
+
+.questionaire-line-height {
+    font-weight: normal;
+    margin-top: 10px;
+}
+
+.driver-line-height {
+    font-weight: normal;
+    margin-top: 8px;
+}
+
+.current-odometer-reading {
+    font-family: helvetica;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+select {
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+}
+
+span button {
+    height: 40px;
+    width: 96px;
+}
+
+input.radio:empty {
+    margin-bottom: -22px;
+    margin-left: 10%;
+}
+
+input.radio:empty~label {
+    position: relative;
+    float: left;
+    line-height: 2.5em;
+    text-indent: 3.25em;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    font-weight: normal;
+}
+
+input.radio:empty~label:before {
+    position: absolute;
+    display: block;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    content: '';
+    width: 2.5em;
+    background: #bdc3c7;
+    border-radius: 16px;
+}
+
+input.radio:focus~label:before {
+    border: 1px solid #66afe9;
+    outline: 0;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(102, 175, 233, 0.6);
+}
+
+label,
+textarea {
+    font-size: 13px;
+    margin-bottom: 10px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+    font-weight: bold;
+}
+
+select {
+    margin-bottom: 10px;
+}
+
+.alert-info {
+    color: #31708f !important;
+}
+
+.active-form {
+    background: #f7f7f7;
+    padding: 10px 25px 20px 25px;
+    box-shadow: 0px 2px 4px #999999;
+    border-radius: 2px;
+}
+
+.well2 hr {
+    margin: 18px 0;
+    border: 0;
+    border-top: 1px solid #cccccc;
+    border-bottom: 1px solid #ffffff;
+}
+
+.startPassword {
+    height: 34px !important;
+    padding: 6px 12px;
+    font-size: 14px;
+    width: 100%;
+}
+
+.questionaire-alert-info {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 10px;
+}
+
+.questionaire-odometer-checkbox {
+    margin-left: 0px !important;
+}
+
+.has-error .help-block,
+.has-error .control-label,
+.has-error .radio,
+.has-error .checkbox,
+.has-error .radio-inline,
+.has-error .checkbox-inline {
+    color: #a94442;
+}
+
+.date-has-error input {
+    border-color: #F3999E;
+    background-color: #F9DDDE;
+}
+
+.has-error label {
+    color: #a94442;
+}
+
+.show-gray-backcolor {
+    background: #f7f7f7;
+    padding: 10px 25px 20px 25px;
+    border-radius: 2px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.has-error input,
+.has-error select,
+.has-error textarea {
+    border-color: #F3999E;
+    background-color: #F9DDDE;
+}
+
+.isrideshare-checkbox {
+    padding-left: 35px;
+}
+
+.isrideshare-checkbox span {
+    padding-left: 5px;
+}
+
+.rideshare-checkbox {
+    min-height: 18px;
+}
+
+.rideshare-checkbox span {
+    margin-left: 10px;
+}
+
+.loading-indicator-overlay {
+    background-color: #FFFFFF;
+    opacity: 0.6;
+    filter: alpha(opacity=60);
+}
+
+.ul-style {
+    list-style: none;
+    margin-left: 10px;
+}
+
+.tag-inline {
+    float: left;
+}
+
+.button-gap-control {
+    margin-top: 20px;
+}
+
+.vehicle-container {
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    border-radius: 4px;
+}
+
+.vehicle-heading {
+    padding: 10px;
+    background-color: #efefef;
+    border-bottom: 1px solid #ccc;
+}
+
+.checkboxLabel {
+    display: inline;
+}
+
+
+/*mobile*/
+
+@media (max-width: 767px) {
+    .questionaire-title {
+        margin-top: 25px;
+        margin-bottom: 15px;
+        font-size: 18px;
+    }
+    .questionaire-title-text {
+        font-weight: bold;
+        font-size: 15px;
+    }
+    .contact-info-summary {
+        margin-top: 0px !important;
+        font-size: 14px;
+    }
+    .questionaire-vehicle-header {
+        min-height: 30px;
+    }
+    .QuestionaireTitle {
+        font-family: helvetica;
+        margin-top: 25px;
+        margin-bottom: 10px;
+        font-size: 23px;
+        color: #333333;
+    }
+    .smallCancelStyle {
+        height: 30px !important;
+        width: 61px !important;
+        padding-left: 8px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+    .smallSubmitStyle {
+        height: 30px !important;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+    .mobile-div-gap {
+        margin-top: 10px;
+    }
+    .mobile-no-padding {
+        padding: 0px;
+    }
+    .mobile-no-margin-left {
+        margin-left: 0px;
+    }
+    .mobile-form-margin-bottom {
+        margin-bottom: 50px;
+    }
+    .mobile-no-margin-bottom {
+        margin-bottom: 0px;
+    }
+    .workPhoneExtensionStyle {
+        margin-left: 0px;
+    }
+}
+
+
+/*Tablet*/
+
+@media (max-width: 979px) and (min-width: 768px) {
+    .mobile-div-gap {
+        margin-top: 10px;
+    }
+    .row {
+        margin-left: 0px;
+    }
+    .mobile-no-padding {
+        padding: 0px;
+    }
+    .mobile-no-margin-left {
+        margin-left: 0px;
+    }
+    .mobile-form-margin-bottom {
+        margin-bottom: 50px;
+    }
+    .mobile-no-margin-bottom {
+        margin-bottom: 0px;
+    }
+}
+
+.ng-if-animation.ng-enter,
+.ng-if-animation.ng-leave {
+    -webkit-transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+    -moz-transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+    -o-transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+    transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+    position: relative;
+    top: 0px;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+.ng-if-animation.ng-enter,
+.ng-if-animation.ng-leave.ng-leave-active {
+    top: -50px;
+    opacity: 0;
+}
+
+.ng-if-animation.ng-leave,
+.ng-if-animation.ng-enter.ng-enter-active {
+    top: 0px;
+    opacity: 1;
+}
